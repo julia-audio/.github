@@ -1,7 +1,9 @@
 ### JULIA_AUDIO
 
 ### TODO
-create decoder (mp3, wav file format)
+create decoder (.mp3, .wav file format)
+
+add spotify support
 
 ### STRUCTURE
 
@@ -14,3 +16,6 @@ audio processing ---------&uarr;
 * reverb, echo, chorus ...
 
 ### REPOS
+[player][1]
+
+[1]: https://github.com/julia-audio/player
