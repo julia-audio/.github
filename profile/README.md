@@ -1,8 +1,8 @@
 ### JULIA_AUDIO
 
 ### TODO
-create decoder (.mp3, .wav file format)
-add spotify support
+1. create decoder (.mp3, .wav file format)
+2. add spotify support
 
 ### STRUCTURE
 ```mermaid
